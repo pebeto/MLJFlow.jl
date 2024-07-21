@@ -106,7 +106,7 @@ of the performance evaluation.
 
 ### Logging outcomes of model tuning
 
-Continuing with previous example:
+Continuing with the previous example:
 
 ```julia
 r = range(model, :max_depth, lower=1, upper=5)
