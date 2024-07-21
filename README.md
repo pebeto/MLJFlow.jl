@@ -6,8 +6,8 @@
 
 [ci-dev]: https://github.com/pebeto/MLJFlow.jl/actions/workflows/CI.yml
 [ci-dev-img]: https://github.com/pebeto/MLJFlow.jl/actions/workflows/CI.yml/badge.svg?branch=dev "Continuous Integration (CPU)"
-[codecov-dev]: https://codecov.io/github/JuliaAI/MLJFlow.jl?branch=dev
-[codecov-dev-img]: https://codecov.io/gh/JuliaAI/MLJFlow.jl/branch/dev/graphs/badge.svg?branch=dev "Code Coverage"
+[codecov-dev]: https://codecov.io/github/JuliaAI/MLJFlow.jl
+[codecov-dev-img]: https://codecov.io/github/JuliaAI/MLJFlow.jl/graph/badge.svg?token=TBCMJOK1WR "Code Coverage"
 
 [MLJ](https://github.com/alan-turing-institute/MLJ.jl) is a Julia framework for
 combining and tuning machine learning models. MLJFlow is a package that extends
