@@ -163,7 +163,7 @@ predict(mach2, X)
 
 Set `logger` as the global logging target by running `default_logger(logger)`. Then,
 unless explicitly overridden, all loggable workflows will log to `logger`. In particular,
-to *suppress* logging, you will need to specify `logger=nothing` in your call.
+to *suppress* logging, you will need to specify `logger=nothing` in your calls.
 
 So, for example, if we run the following setup
 
